@@ -1,11 +1,3 @@
-﻿"Revenue, expenditure and budgetary balance - General governments (x 1,000,000)"
-"Frequency: Quarterly"
-"Table: 36-10-0477-01 (formerly CANSIM 380-0080)"
-"Release date: 2022-08-31"
-"Geography: Canada"
-""
-""
-
 "Seasonal adjustment","Seasonally adjusted at annual rates",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Levels of government","General governments",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Geography","Canada",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -157,17 +149,3 @@
 "Existing capital","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","-2,260","-21,084","0","0","-8,436","-3,020","-236","0","0","0","0","0","0","0","0","0","0","-172","0","0","0","-13,880","0","0"
 "Inventories","148","456","1,028","96","1,660","32","196","-612","1,520","892","1,012","784","1,424","716","-364","328","-1,616","412","292","288","12","48","212","268","-408","448","276","1,000","-2,112","380","272","-216","-784","256","96","344","424","-80","-140","-104"
 "Equals: net lending or net borrowing","-72,852","-67,808","-90,700","-84,360","-72,468","-56,060","-57,112","-49,156","-48,980","-46,184","-49,260","-40,088","-50,016","-29,584","-17,572","-16,560","2,716","16,312","-804","-4,268","-7,680","8,800","-11,932","5,888","-4,220","-6,584","-13,412","-12,512","-7,996","9,744","-4,076","-7,276","-932","7,092","17,444","8,580","2,168","12,624","-3,756","-10,636"
-
-Symbol legend:
-.., not available for a specific reference period
-
-
-
-
-Footnotes:
-1,"This series may be impacted by government COVID-19 support measures. Details may be found in the table <a href="https://www150.statcan.gc.ca/n1/en/type/data?text=36100687" rel="external noopener noreferrer" target="_blank">Federal government COVID-19 support measures in the System of Macroeconomic Accounts, quarterly (opens new window)</a>."
-
-
-
-"How to cite: Statistics Canada. Table 36-10-0477-01  Revenue, expenditure and budgetary balance - General governments (x 1,000,000)"
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610047701
